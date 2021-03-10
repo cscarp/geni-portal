@@ -82,7 +82,8 @@ function show_last_message() {
 
     <div id="welcome-right-right">
     <div id="smallmap">
-      <?php include "map.html"; ?>
+      <img src="http://www.geni.net/wp-content/uploads/2015/06/GENI-MAP-5-1.jpg" style='height: 100%; width: 100%; object-fit: contain'>
+      <?php #include "map.html"; ?>
       <p><i>These are some of the many resources being used in GENI experiments across the world.</i></p>
     </div>
     </div>
